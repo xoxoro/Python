@@ -16,10 +16,6 @@ print(name,"은/는" , age,"살이고", "어른이다", is_adult)
 station = "신도림"
 print("지금" + station + " 행 열차가 들어오고 있습니다.")
 
-1
-2
-3
-
 print(2**3) #2^3 2의 3승
 print(5%2) #나머지 구하기 2
 print(10%3) #나머지 1
