@@ -128,4 +128,10 @@ print("뒤 7자리 " + jumin[7:]) #7번째부터 끝까지
 print("뒤 7자리 (뒤에부터) : " + jumin[-7:]) 
 # 맨 뒤에서 7번째부터 끝까지
 
-#test
+#문자열 처리 함수
+python = "Python is Amazing"
+print(python.lower())#소문자로 실행
+print(python.upper())#대문자로 실행
+print(python[0].isupper())#파이썬의 0번째가 대문자인지 알려줌 true
+print(len(python))#글자갯수 알려줌
+
