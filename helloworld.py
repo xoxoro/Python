@@ -135,4 +135,4 @@ print(python.upper())#대문자로 실행
 print(python[0].isupper())#파이썬의 0번째가 대문자인지 알려줌 true
 print(len(python))#글자갯수 알려줌
 
-#06/13 test
+#06/14 test
